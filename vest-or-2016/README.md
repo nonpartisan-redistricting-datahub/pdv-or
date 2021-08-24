@@ -31,6 +31,8 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
   - Accessed: 08/24/21
   - Note: This was not the sourcefile that VEST mentioned, but it appears to match up very closely to VEST's file.
 
+- Note: VEST's documentation describes a number of sourcefiles used to generate their shapefile, because we were able to find a separate shapefile, we did not go about reaching out to counties and attempting to recreate the shapefile ourselves.
+
 ## File processing
 
 - `vest-or-2016-validation.ipynb` - documentation in markdown cells and comments
