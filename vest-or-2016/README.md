@@ -25,6 +25,12 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
   - Accessed: 07/23/21
   - Note:
 
+- File: OR 16 Precinct Shapefile
+  - Online: [Kevin Rancik Personal Website](http://www.kevinrancik.com/elections/Oregon/eOregon.html)
+  - AWS: `Shapefile` (available upon request)
+  - Accessed: 08/24/21
+  - Note: This was not the sourcefile that VEST mentioned, but it appears to match up very closely to VEST's file.
+
 ## File processing
 
 - `vest-or-2016-validation.ipynb` - documentation in markdown cells and comments
