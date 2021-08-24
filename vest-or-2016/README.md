@@ -26,7 +26,7 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
   - Note:
 
 - File: OR 16 Precinct Shapefile
-  - Online: [Kevin Rancik Personal Website](http://www.kevinrancik.com/elections/Oregon/eOregon.html)
+  - Online: [Kevin Rancik's Personal Website](http://www.kevinrancik.com/elections/Oregon/eOregon.html)
   - AWS: `Shapefile` (available upon request)
   - Accessed: 08/24/21
   - Note: This was not the sourcefile that VEST mentioned, but it appears to match up very closely to VEST's file.
