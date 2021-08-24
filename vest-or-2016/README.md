@@ -31,7 +31,7 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
   - Accessed: 08/24/21
   - Note: This was not the sourcefile that VEST mentioned, but it appears to match up very closely to VEST's file.
 
-- Note: VEST's documentation describes a number of sourcefiles used to generate their shapefile, because we were able to find a separate shapefile, we did not go about reaching out to counties and attempting to recreate the shapefile ourselves.
+- Note: VEST's documentation describes a number of sourcefiles used to generate their shapefile, but because we were able to find a separate shapefile, we did not reach out to counties to obtain these files and recreate the shapefile ourselves.
 
 ## File processing
 
