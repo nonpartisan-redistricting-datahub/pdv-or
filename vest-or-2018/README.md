@@ -11,7 +11,7 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
   - Online: [Harvard Dataverse Link](https://dataverse.harvard.edu/file.xhtml?fileId=5194702&version=49.0)
   - Accessed: 11/12/21
 
-- File: VEST OR 18
+- File: VEST OR 18 Documentation
   - Online: [Harvard Dataverse Link](https://dataverse.harvard.edu/file.xhtml?fileId=5371919&version=49.0)
   - Accessed: 11/12/21
 
