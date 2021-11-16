@@ -19,6 +19,10 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
   - Online: [Open Elections Link](https://github.com/openelections/openelections-data-or/)
   - Accessed: 11/12/21  
 
+- File: OR Precinct-Level Shapefile
+  - Online: [Kevin Rancik's Website](http://www.kevinrancik.com/elections/Oregon/eOregon.html)
+  - Accessed: 11/16/21  
+
 ## File processing
 
 - `vest-or-2018-validation.ipynb` - documentation in markdown cells and comments
