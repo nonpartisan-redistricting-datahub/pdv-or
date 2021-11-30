@@ -17,7 +17,7 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
 
 - File: OR Precinct-Level Election Results
   - Online: [Open Elections Link](https://github.com/openelections/openelections-data-or/)
-  - Accessed: 11/12/21  
+  - Accessed: 11/30/21  
 
 ## File processing
 
